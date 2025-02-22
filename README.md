@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
   
 ## 📧 También estoy en
-  [<img src="./Images/linkedin.png" width="90" height="30"/>](https://www.linkedin.com/in/ricardo-j-jimenez)
-  [<img src="./Images/behance.png" width="90" height="30"/>](https://www.behance.net/rikjprojects)
+  [<img src="./Images/linkedin.png" width="120" height="30"/>](https://www.linkedin.com/in/ricardo-j-jimenez)
+  [<img src="./Images/behance.png" width="120" height="30"/>](https://www.behance.net/rikjprojects)
 
 
