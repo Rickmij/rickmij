@@ -8,15 +8,16 @@
 ### 🎨 Diseño:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="50"/> 
-  <img src="[illustrator](https://github.com/Rickmij/rickmij/blob/main/Images/illustrator.svg)" width="50" height="50"/>
-  <img src="[premiere](https://github.com/Rickmij/rickmij/blob/main/Images/premiere.svg)" width="50" height="50"/>
-  <img src="[indesign](https://github.com/Rickmij/rickmij/blob/main/Images/indesign.svg)" width="50" height="50"/>
+  <img src="./illustrator.svg)" width="50" height="50"/>
+  <img src="./premiere.svg)" width="50" height="50"/>
+  <img src="./indesign.svg)" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50"/>
 
 ### 💻 Desarrollo de Software:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
 
 #### Lenguajes
 <p align="left">
@@ -31,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
   
 ## 📧 También estoy en
-  [<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg](https://github.com/Rickmij/rickmij/blob/main/Images/linkedin.png)" width="30" height="30"/>](https://www.linkedin.com/in/ricardo-j-jimenez)
-  [<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg](https://github.com/Rickmij/rickmij/blob/main/Images/behance.png)" width="30" height="30"/>](https://www.behance.net/rikjprojects)
+  [<img src="[./linkedin.png)" width="30" height="30"/>](https://www.linkedin.com/in/ricardo-j-jimenez)
+  [<img src="[./behance.png)" width="30" height="30"/>](https://www.behance.net/rikjprojects)
 
 
