@@ -8,16 +8,16 @@
 ### 🎨 Diseño:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="50"/> 
-  <img src="./illustrator.svg)" width="50" height="50"/>
-  <img src="./premiere.svg)" width="50" height="50"/>
-  <img src="./indesign.svg)" width="50" height="50"/>
+  <img src="./Images/illustrator.svg" width="50" height="50"/>
+  <img src="./Images/premiere.svg" width="50" height="50"/>
+  <img src="./Images/indesign.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50"/>
 
 ### 💻 Desarrollo de Software:
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
+    <img src="./Images/github.png" width="50" height="50"/>
 
 #### Lenguajes
 <p align="left">
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
   
 ## 📧 También estoy en
-  [<img src="[./linkedin.png)" width="30" height="30"/>](https://www.linkedin.com/in/ricardo-j-jimenez)
-  [<img src="[./behance.png)" width="30" height="30"/>](https://www.behance.net/rikjprojects)
+  [<img src="./images/linkedin.png" width="30" height="30"/>](https://www.linkedin.com/in/ricardo-j-jimenez)
+  [<img src="./images/behance.png" width="30" height="30"/>](https://www.behance.net/rikjprojects)
 
 
